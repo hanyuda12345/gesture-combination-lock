@@ -134,4 +134,4 @@ UNLOCK SUCCESS
 
 ## Course Context
 
-Developed as a team project for an NYU Embedded Systems course in Spring 2026.
+Developed as an individual project for an NYU Embedded Systems course in Spring 2026.
